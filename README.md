@@ -42,7 +42,7 @@ Ensure you have the following installed:
 - **Git** (For version control)
 
 ### Clone the Repository
-* git clone https://github.com/yourusername/hotel-booking-system.git
+* git clone https://github.com/yourusername/hotel-room-booking-system.git
 * cd hotel-booking-system
 
 ### Install Dependencies
